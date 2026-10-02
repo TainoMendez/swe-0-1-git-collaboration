@@ -1,3 +1,3 @@
 print("Written by: Taino Mendez and Nasir Kelley")
-print("Laptop Hunt")
-print("Setting: ")
+print("The Missing Laptop")
+print("Setting: The Computer lab ")
